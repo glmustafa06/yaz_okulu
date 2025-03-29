@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Ychz44N8WA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc.DESKTOP-GE9UJQI\\source\\repos\\YazOkulu\\EntityLayer\\EntityLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc.DESKTOP-GE9UJQI\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pc.DESKTOP-GE9UJQI\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pc.DESKTOP-GE9UJQI\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
